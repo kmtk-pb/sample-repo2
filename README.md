@@ -1,8 +1,6 @@
 # sample-repo2
 Git練習用
 change
-
-#Strings
-
-hello=こんにちは
-print(f{hello})
+コミットで管理
+Working directory -> satging area -> repository
+add -> commit ->
